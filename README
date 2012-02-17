@@ -1,0 +1,11 @@
+
+C wavelet tree implementation with fast loading times. supports the following operations:
+
+- mostFreqeuentK
+- quantile
+- rank
+- select
+- access
+- save/load to/from disk.
+
+ 
